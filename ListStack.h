@@ -1,4 +1,4 @@
-#include <List>
+#include <list>
 #include "StackImplementation.h"
 
 using ValueType = double;
